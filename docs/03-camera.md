@@ -1,4 +1,3 @@
-````md
 # 03 — Camera Bring-Up and Viewing
 
 This section explains how to bring up the JetRover camera and view the live
