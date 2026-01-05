@@ -1,4 +1,3 @@
-````md
 # 02 — ROS2 Basics (Minimum You Need)
 
 This section introduces only the ROS2 concepts required to work with the
