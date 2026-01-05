@@ -1,4 +1,3 @@
-````md
 # 01 — Environment Setup (JetRover + ROS2)
 
 This guide explains how to set up the ROS2 environment on the **Hiwonder JetRover**.
