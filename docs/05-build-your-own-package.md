@@ -1,4 +1,3 @@
-````md
 # 05 — Build Your Own ROS2 Package
 
 This section explains how to create a simple ROS2 Python package to control

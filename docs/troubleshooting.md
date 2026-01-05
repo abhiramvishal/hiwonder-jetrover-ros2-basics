@@ -1,4 +1,3 @@
-````md
 # Troubleshooting — JetRover ROS2
 
 This section lists common issues you may encounter when working with ROS2

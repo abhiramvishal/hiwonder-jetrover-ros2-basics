@@ -1,4 +1,3 @@
-````md
 # 04 — Robot Movement Control
 
 This section explains how to control the **Hiwonder JetRover (standard wheels)**
