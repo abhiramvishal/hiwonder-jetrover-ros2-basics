@@ -1,4 +1,4 @@
-]# Hiwonder JetRover (Standard Wheels) — ROS2 On-Robot Guide
+# Hiwonder JetRover (Standard Wheels) — ROS2 On-Robot Guide
 
 This repository is a **course-style ROS2 guide** for working with the **Hiwonder JetRover robot (standard wheels)**.
 
